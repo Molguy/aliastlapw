@@ -41,4 +41,8 @@ Actualize escribiendo en la terminal:
 
 # Listo
 
-A este punto ya puede abrir un porgrama .EXE desde la terminal en cualquier lado de WSL e incluso abrir un archivo con formato compatible desde la ruta en la que se encuentre trabajando
+A este punto ya puede abrir un porgrama .EXE desde la terminal en cualquier lado de WSL como si fuese un programa nativo de linux, e incluso abrir un archivo con formato compatible desde la ruta en la que se encuentre trabajando, *ejemplo:*
+
+        ovitow dump_0.7.nvt
+
+aclarando que _dump_0.7.nvt_ es un archivo que se puede abrir con ese porgrama y que ya se encontraba en la ruta en donde se esta trabajando.
