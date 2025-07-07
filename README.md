@@ -19,6 +19,8 @@ Abre la terminal escribiendo _WSL_ en el buscador de aplicaciones, o en el escri
 
     alias ovitow='cmd.exe /c " "'
 
+Valiendo la redundancia, _ovitow_ es un alias de porgrama original "Ovito", en donde se puede remplazar por cualquier otra palabra o por su mismo nombre, es a conveniencia del usuario.
+
 # Paso 2
 
 Escriba en la terminal de WSL:
